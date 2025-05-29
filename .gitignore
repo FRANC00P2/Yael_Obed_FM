@@ -1,32 +1,9 @@
-# Prerequisites
-*.d
+# Metodos_Numericos
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+- [**Tema 1** : Introducción a Métodos Numéricos](./Tema1.md)
+- [**Tema 2** : Solución de ecuaciones](./Tema2.md)
+- [**Tema 3** : Solución de sistemas de ecuaciones](./Tema3.md)
+- [**Tema 4** : Diferenciación e integración numérica](./Tema4.md)
+- [**Tema 5** : Interpolación y ajuste de funciones](./Tema5.md)
+- [**Tema 6** : Solución de ecuaciones diferenciales](./Tema6.md)
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
